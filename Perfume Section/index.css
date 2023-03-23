@@ -1,0 +1,526 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+a{
+  color: black;
+}
+
+.footer-section-child {
+  background-color: var(--color-black);
+  width: 1920px;
+  height: 543px;
+}
+.copywrite-2023,
+.footer-section-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.span {
+  text-decoration: underline;
+}
+.a {
+  color: inherit;
+}
+.contact-us-container {
+  position: absolute;
+  top: 0;
+  left: 1231px;
+  color: inherit;
+}
+.footer-texts {
+  position: absolute;
+  top: 489px;
+  left: 101px;
+  width: 1693px;
+  height: 30px;
+}
+.legal,
+.privacy-policy,
+.terms-conditions {
+  position: absolute;
+  left: 0;
+  letter-spacing: 0.02em;
+  line-height: 40px;
+}
+.legal {
+  top: 0;
+  color: var(--color-white);
+  display: inline-block;
+  width: 60px;
+  height: 31px;
+}
+.privacy-policy,
+.terms-conditions {
+  top: 89px;
+}
+.privacy-policy {
+  top: 152px;
+}
+.legal-footer-text,
+.quick-link {
+  position: absolute;
+  top: 0;
+  left: 580px;
+  width: 218px;
+  height: 192px;
+}
+.quick-link {
+  left: 0;
+  letter-spacing: 0.01em;
+  color: var(--color-white);
+  display: inline-block;
+  width: 113px;
+  height: 31px;
+}
+.faqs,
+.fp-near-you,
+.order-tracking,
+.size-guide {
+  position: absolute;
+  top: 89px;
+  left: 0;
+  letter-spacing: 0.01em;
+}
+.faqs,
+.order-tracking,
+.size-guide {
+  top: 140px;
+}
+.faqs,
+.size-guide {
+  top: 191px;
+}
+.faqs {
+  top: 242px;
+}
+.company,
+.quicklink-footer-text {
+  position: absolute;
+  top: 0;
+  left: 290px;
+  width: 159px;
+  height: 270px;
+}
+.company {
+  left: 0;
+  letter-spacing: 0.01em;
+  color: var(--color-white);
+  display: inline-block;
+  width: 103px;
+  height: 31px;
+}
+.company-footer-text {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 118px;
+  height: 219px;
+}
+.rightmost-footer-text {
+  position: absolute;
+  top: 134px;
+  left: 825px;
+  width: 798px;
+  height: 270px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-roboto);
+}
+.complete-your-style,
+.fashion-point {
+  position: absolute;
+  left: 0;
+  letter-spacing: 0.01em;
+}
+.fashion-point {
+  top: 0;
+  font-weight: 900;
+}
+.complete-your-style {
+  top: 103px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-roboto);
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 380px;
+}
+.facebook-rect-footer-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gainsboro);
+  width: 52px;
+  height: 52px;
+}
+.vector-icon {
+  position: absolute;
+  height: 38.46%;
+  width: 21.15%;
+  top: 30.77%;
+  right: 40.38%;
+  bottom: 30.77%;
+  left: 38.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.facebook-rect-footer,
+.insta-rect-footer-icon,
+.vector-icon1 {
+  position: absolute;
+  top: 215px;
+  left: 2px;
+  width: 52px;
+  height: 52px;
+}
+.insta-rect-footer-icon,
+.vector-icon1 {
+  left: 74px;
+}
+.vector-icon1 {
+  height: 34.51%;
+  width: 42.31%;
+  top: 32.69%;
+  right: 28.85%;
+  bottom: 32.8%;
+  left: 28.85%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.twitter-rect-footer {
+  position: absolute;
+  top: 215px;
+  left: 146px;
+  width: 52px;
+  height: 52px;
+}
+.leftmost-footer-text {
+  position: absolute;
+  top: 150px;
+  left: 100px;
+  width: 380px;
+  height: 267px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
+.footer-section {
+  position: absolute;
+  top: 3223px;
+  left: 0;
+  width: 1920px;
+  height: 543px;
+  color: var(--color-gray-100);
+  font-family: var(--font-inter);
+}
+.st-row-5,
+.the-year-perfume {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.st-row-5 {
+  background-color: var(--color-whitesmoke-200);
+  width: 729px;
+  height: 700px;
+}
+.the-year-perfume {
+  letter-spacing: 0.03em;
+  line-height: 170.17%;
+}
+.group-child {
+  position: absolute;
+  top: 51px;
+  left: 0.86px;
+  width: 35px;
+  height: 35px;
+}
+.group-child1,
+.group-inner,
+.group-item,
+.star-icon {
+  position: absolute;
+  top: 51px;
+  left: 40.86px;
+  width: 35px;
+  height: 35px;
+}
+.group-child1,
+.group-inner,
+.star-icon {
+  left: 80.86px;
+}
+.group-child1,
+.star-icon {
+  left: 120.86px;
+}
+.group-child1 {
+  left: 160.86px;
+}
+.div,
+.div1 {
+  position: absolute;
+  top: 89px;
+  left: 6px;
+  letter-spacing: 0.03em;
+  line-height: 170.17%;
+}
+.div1 {
+  top: 86px;
+  left: 33px;
+  display: inline-block;
+  width: 47px;
+  height: 47px;
+}
+.st-row-5-parent,
+.the-year-perfume-parent {
+  position: absolute;
+  top: 514px;
+  left: 60px;
+  width: 251px;
+  height: 140px;
+}
+.st-row-5-parent {
+  top: 859px;
+  left: 991px;
+  width: 729px;
+  height: 700px;
+}
+.st-row-4-parent,
+.wes-weekend-perfume-parent {
+  position: absolute;
+  top: 531px;
+  left: 44px;
+  width: 328px;
+  height: 140px;
+}
+.st-row-4-parent {
+  top: 859px;
+  left: 0;
+  width: 729px;
+  height: 700px;
+}
+.crystal-play-perfume-parent,
+.st-row-3-parent {
+  position: absolute;
+  top: 512px;
+  left: 60px;
+  width: 295px;
+  height: 140px;
+}
+.st-row-3-parent {
+  top: 0;
+  left: 991px;
+  width: 729px;
+  height: 700px;
+}
+.nautica-voyage-perfume-parent {
+  position: absolute;
+  top: 512px;
+  left: 49px;
+  width: 348px;
+  height: 140px;
+}
+.content-section,
+.st-row-6-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 729px;
+  height: 700px;
+}
+.content-section {
+  top: 1449px;
+  left: 98px;
+  width: 1720px;
+  height: 1559px;
+  font-size: var(--font-size-base);
+}
+.zudio-logo {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  letter-spacing: 0.01em;
+  font-weight: 900;
+  cursor: pointer;
+}
+.signup-button-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-black);
+  width: 134px;
+  height: 62px;
+}
+.sign-up {
+  position: absolute;
+  top: 13px;
+  left: 19px;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+  cursor: pointer;
+}
+.men,
+.signup-button {
+  position: absolute;
+  top: 0;
+}
+.signup-button {
+  left: 1588px;
+  width: 134px;
+  height: 62px;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+}
+.men {
+  left: 0;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+  display: inline-block;
+  width: 48.38px;
+  height: 37px;
+  cursor: pointer;
+}
+.navbar-texts-child {
+  position: absolute;
+  top: 33.5px;
+  left: 226.29px;
+  border-top: 1px solid var(--color-dimgray-200);
+  box-sizing: border-box;
+  width: 119.94px;
+  height: 1px;
+}
+.perfumes,
+.women {
+  position: absolute;
+  top: 0;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+  display: inline-block;
+  height: 37px;
+}
+.women {
+  left: 93.74px;
+  width: 87.69px;
+  cursor: pointer;
+}
+.perfumes {
+  left: 226.79px;
+  width: 164.3px;
+}
+.navbar-heading,
+.navbar-texts {
+  position: absolute;
+  top: 13px;
+  left: 1171px;
+  width: 391.09px;
+  height: 37px;
+  font-size: var(--font-size-2xs);
+}
+.navbar-heading {
+  top: 44px;
+  left: 98px;
+  width: 1722px;
+  height: 62px;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-poppins);
+}
+.zudio-malibu-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lg);
+  background: linear-gradient(134.19deg, #3c5c39, rgba(194, 232, 139, 0));
+  width: 1720px;
+  height: 988px;
+}
+.fahion-point-crystal-perfume,
+.newest-collection-of,
+.order-now {
+  position: absolute;
+  letter-spacing: 0.03em;
+  line-height: 170.17%;
+  display: inline-block;
+}
+.newest-collection-of {
+  top: 90px;
+  left: 107px;
+  font-size: var(--font-size-9xl);
+  width: 1030px;
+  height: 340px;
+}
+.fahion-point-crystal-perfume,
+.order-now {
+  top: 652.36px;
+  left: 106.66px;
+  width: 782.47px;
+  height: 101.16px;
+}
+.order-now {
+  top: 806px;
+  left: 107px;
+  color: var(--color-lightgray);
+  width: 425px;
+  height: 102px;
+}
+.zudio-malibu {
+  position: absolute;
+  top: 169px;
+  left: 98px;
+  width: 1720px;
+  height: 988px;
+  font-size: var(--font-size-7xl);
+  color: var(--color-white);
+}
+.hstd2zpml-2-icon {
+  position: absolute;
+  top: 153px;
+  left: 1046px;
+  width: 779px;
+  height: 988px;
+  object-fit: cover;
+}
+.hstd2zpml-2-icon1,
+.image-1-icon,
+.image-2-icon,
+.image-3-icon {
+  position: absolute;
+  top: 1449px;
+  left: 98px;
+  width: 729px;
+  height: 512px;
+  object-fit: cover;
+}
+.hstd2zpml-2-icon1,
+.image-1-icon,
+.image-3-icon {
+  left: 1089px;
+  height: 481px;
+}
+.image-1-icon,
+.image-3-icon {
+  top: 2308px;
+  left: 98px;
+  width: 709px;
+  height: 484px;
+}
+.image-1-icon {
+  left: 1089px;
+  width: 729px;
+}
+.fp-perfumes {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 3766px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-poly);
+}
